@@ -4,5 +4,5 @@ In This Tutorial Iam Creating A Responsive Banner Section Html Like This Image I
 ![yt_thumbnail](https://github.com/mohdalthafne/Responsive-Banner-Section-In-Html-And-Css/assets/104372337/bf9cc5d7-9574-4929-9a7a-f804f9266ed5)
 This Is The Demo Of The Project!
 
-The Tutorial Video Was Mentioned Below
+The Tutorial Video Was Mentioned Below <br>
 https://youtu.be/m3JBP-adnN4?feature=shared
